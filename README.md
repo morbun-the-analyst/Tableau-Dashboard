@@ -10,7 +10,7 @@ In this project, I developed two dashboards — **Sales** and **Customer** — b
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 -  Tools used: Tableau
 -  Dashboards: Sales Overview, Customer Analysis
@@ -19,7 +19,7 @@ In this project, I developed two dashboards — **Sales** and **Customer** — b
 
 ---
 
-## 🧠 Executive Summary
+##  Executive Summary
 
 The sales Dashboard reveals strong YoY growth in total sales (+20.4%), profit (+12.5%), and order quantity (+26.8%), driven by top-selling categories like Phones and Chairs. Notably, Copiers led in profitability, while Appliances showed the highest YoY sales growth — making it a key area for expansion. However, categories like Machines and Envelopes experienced significant sales declines, and Tables continue to operate at a loss. These trends offer actionable insights for optimizing product strategy and marketing focus.
 
@@ -29,54 +29,51 @@ On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per
 
 
 
--**Sales Dashboard Insights**  
-## Overall Growth in Sales Metrics
+## Sales Dashboard Insights  
+ -**Overall Growth in Sales Metrics**
 
 -Total sales ↑ 20.4%, profit ↑ 12.5%, and quantity ↑ 26.8% YoY
 -Indicates strong customer engagement. 
 
-## High Performers
+-**High Performers**
 
 -Phones, Chairs, and Binders drove the highest sales this year
 -Appliances had the highest YoY growth, suggesting an emerging category
 
-## Top Profit Driver
+-**Top Profit Driver**
 
 -Copiers generated the highest profit of 63k  and ranked among the top 5 in sales — indicating high-margin performance
 
-## Underperformers
+-**Underperformers**
 
 -Machines, Envelopes, and Tables all showed YoY sales decline
 -Machines: -22.1%, Envelopes: -28%, Tables: barely grew (+0.1%)
 -Tables showed the highest loss despite a minor improvement in sales
 
--**Customer Dashboard Insights** 
+## Customer Dashboard Insights 
 
-## Customer Growth & Engagement
+-**Customer Growth & Engagement**
 
 -Total customers ↑ 8.6%, sales per customer ↑ 10.8%, and total orders ↑ 28.3% YoY
 -Indicates stronger customer base and more frequent purchasing behavior
 
-## Monthly Customer Behavior
+-**Monthly Customer Behavior**
 
 -November: highest number of customers and total orders (likely seasonal peak)
 -February: lowest customer activity — potential dip due to post-holiday lull
 -January: highest sales per customer — early-year big spenders
 -April: lowest sales per customer — possible disengagement or smaller-ticket items
 
-## Order Distribution
+-**Order Distribution**
 
 -Majority of customers placed 1–3 orders
 -200 (1 order), 200 (2 orders), and 156 (3 orders)
 -Suggests a large base of low-frequency buyers — opportunity to improve retention or upselling
 
-## Top Customers by Profit
+-**Top Customers by Profit**
 
 -Highest contributors: Raymond, Tom, and one other (4.5K)
--These VIP customers offer strong ROI and should be prioritized for  eloyalty efforts
-
-
-[Read full executive summary ➜](docs/executive_summary.md)
+-These VIP customers offer strong ROI and should be prioritized for  eloyalty effortse summary ➜](docs/executive_summary.md)
 
 ---
 
