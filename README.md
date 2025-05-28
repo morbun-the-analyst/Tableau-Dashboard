@@ -99,14 +99,6 @@ On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per
 - Business-friendly layout designed for managers and execs
 - Navigation between dashboards with intuitive interactivity
 
----
-
-##  How to Use
-
-1. Download the `.twbx` files from `/dashboards`
-2. Open in Tableau Desktop (2022+)
-3. Filter by year, category, and location to explore insights
-4. Use interactive legends and charts to drill down into key trends
 
 ##  Learnings
 
