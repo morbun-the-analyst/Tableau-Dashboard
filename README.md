@@ -2,13 +2,12 @@
 
 A business-driven Tableau project simulating a retail sales environment. Built to help sales managers, marketing teams, and executives gain insights into performance metrics, customer trends, and segmentation — using clean, interactive dashboards.
 
----
 
 ##  Project Description Summary
 
 In this project, I developed two dashboards — **Sales** and **Customer** — based on a simulated retail dataset. The project mirrors real business scenarios with stakeholder-driven requirements to support data-informed decision-making.
 
----
+
 
 ##  Project Overview
 
@@ -17,14 +16,15 @@ In this project, I developed two dashboards — **Sales** and **Customer** — b
 -  Audience: Sales managers, Marketing, Executives
 -  Business goal: Enable year-over-year performance tracking, customer behavior analysis, and customer value segmentation
 
----
 
 ##  Executive Summary
 
 The sales Dashboard reveals strong YoY growth in total sales (+20.4%), profit (+12.5%), and order quantity (+26.8%), driven by top-selling categories like Phones and Chairs. Notably, Copiers led in profitability, while Appliances showed the highest YoY sales growth — making it a key area for expansion. However, categories like Machines and Envelopes experienced significant sales declines, and Tables continue to operate at a loss. These trends offer actionable insights for optimizing product strategy and marketing focus.
 
 On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per customer (+10.8%), and total orders (+28.3%) reflects a healthier and more engaged customer base. November emerged as the peak month for engagement, while January drove the highest revenue per customer. However, a significant portion of customers only place 1–3 orders, signaling retention gaps. The business should leverage seasonal trends, focus on increasing order frequency, and prioritize top-profit customers like Raymond and Tom to drive long-term value.
+## Data Description
 
+## Customer ERD
 
 
 
@@ -75,73 +75,52 @@ On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per
 -Highest contributors: Raymond, Tom, and one other (4.5K)
 -These VIP customers offer strong ROI and should be prioritized for  eloyalty effortse summary ➜](docs/executive_summary.md)
 
----
 
-## 🧾 Data Description
 
-- Sales, order, customer demographic, and product data across two years
-- Cleaned in Excel and structured using SQL joins for analysis
-- Segmentation logic based on total spend, recency, and order frequency
+##  Dashboards Preview
 
-[Detailed data dictionary ➜](docs/data_description.md)
-
----
-
-## 🧩 Customer Report ERD
-
-Entity-Relationship Diagram for customer segmentation logic and data modeling.
-
-![Customer ERD](docs/customer_report_erd.png)
-
----
-
-## 📊 Dashboards Preview
-
-### 🧾 Sales Dashboard
+### Sales Dashboard
 > View metrics like YoY sales, subcategory profit, and weekly trends.
 
 ![Sales Dashboard](images/sales_dashboard_preview.png)
 
-### 👥 Customer Dashboard
+### Customer Dashboard
 > View KPIs, customer segment performance, and Top 10 customers by profit.
 
 ![Customer Dashboard](images/customer_dashboard_preview.png)
 
 ---
 
-## 🚀 Dashboard Features
+##  Dashboard Features
 
-- 📆 Year-over-year KPI tracking
-- 📈 Interactive charts with drilldowns by region, category, and time
-- 🔀 Dynamic filters: year, region, category, customer segment
-- 🧠 Business-friendly layout designed for managers and execs
-- 🧭 Navigation between dashboards with intuitive interactivity
+-  Year-over-year KPI tracking
+- Interactive charts with drilldowns by region, category, and time
+- Dynamic filters: year, region, category, customer segment
+- Business-friendly layout designed for managers and execs
+- Navigation between dashboards with intuitive interactivity
 
 ---
 
-## 🔄 How to Use
+##  How to Use
 
 1. Download the `.twbx` files from `/dashboards`
 2. Open in Tableau Desktop (2022+)
 3. Filter by year, category, and location to explore insights
 4. Use interactive legends and charts to drill down into key trends
 
----
-
-## 🧠 Learnings
+##  Learnings
 
 - Advanced dashboard actions (highlight, filter, URL navigation)
 - Designing for stakeholders (clean layout, business KPIs)
 - Data storytelling through segment insights, recency & profitability
 
----
-
-## 🔗 View on Tableau Public
+## View on Tableau Public
 
 - [🔍 View Sales Dashboard](https://public.tableau.com/profile/yourlink)
 - [🔍 View Customer Dashboard](https://public.tableau.com/profile/yourlink)
 
----
+## Recommendations
+## Clarifying questions $ Caveats
 
 ## 🙏 Acknowledgments
 This project was inspired by the teaching style and Tableau techniques shared by [Bara](https://www.youtube.com/@DataWithBaraa) on YouTube.
