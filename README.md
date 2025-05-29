@@ -80,7 +80,7 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 
 
 ## Customer ERD
-<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="SALES ERD" width="250"/>
+<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="250"/>
 
 
 
