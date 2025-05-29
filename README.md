@@ -22,7 +22,62 @@ In this project, I developed two dashboards — **Sales** and **Customer** — b
 The sales Dashboard reveals strong YoY growth in total sales (+20.4%), profit (+12.5%), and order quantity (+26.8%), driven by top-selling categories like Phones and Chairs. Notably, Copiers led in profitability, while Appliances showed the highest YoY sales growth — making it a key area for expansion. However, categories like Machines and Envelopes experienced significant sales declines, and Tables continue to operate at a loss. These trends offer actionable insights for optimizing product strategy and marketing focus.
 
 On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per customer (+10.8%), and total orders (+28.3%) reflects a healthier and more engaged customer base. November emerged as the peak month for engagement, while January drove the highest revenue per customer. However, a significant portion of customers only place 1–3 orders, signaling retention gaps. The business should leverage seasonal trends, focus on increasing order frequency, and prioritize top-profit customers like Raymond and Tom to drive long-term value.
+
 ## Data Description
+
+- **Overview**
+This dataset contains four relational tables: `Orders`, `Customers`, `Products`, and `Location`. These tables support a Tableau sales dashboard focused on tracking key performance indicators (KPIs) such as profit, sales, and quantity sold, with the ability to filter by customer and geographic location.
+
+
+
+### 📦 Table: Orders
+
+| Field Name       | Description                                | Type    |
+|------------------|---------------------------------------------|---------|
+| `OrderID (PK)`   | Unique identifier for each order            | Integer |
+| `OrderDate`      | Date the order was placed                   | Date    |
+| `Profit`         | Profit made on the order                    | Float   |
+| `Quantity`       | Number of items ordered                     | Integer |
+| `Sales`          | Total value of the order                    | Float   |
+| `CustomerID (FK)`| Foreign key referencing `Customers` table   | String  |
+| `ProductID (FK)` | Foreign key referencing `Products` table    | String  |
+| `PostalCode (FK)`| Foreign key referencing `Location` table    | String  |
+
+### 👥 Table: Customers
+
+| Field Name        | Description                     | Type   |
+|-------------------|----------------------------------|--------|
+| `CustomerID (PK)` | Unique identifier for customer   | String |
+| `CustomerName`    | Full name of the customer        | String |
+
+### 🛒 Table: Products
+
+| Field Name        | Description                       | Type   |
+|-------------------|------------------------------------|--------|
+| `ProductID (PK)`  | Unique product identifier          | String |
+| `SubCategory`     | Product sub-category (e.g., Chairs, Phones) | String |
+
+### 🌍 Table: Location
+
+| Field Name         | Description              | Type   |
+|--------------------|---------------------------|--------|
+| `PostalCode (PK)`  | Unique postal code        | String |
+| `Country`          | Country name              | String |
+| `Region`           | Region within the country | String |
+| `State`            | State or province         | String |
+| `City`             | City                      | String |
+
+
+### 🔗 Relationships
+
+- `Orders.CustomerID` → `Customers.CustomerID`
+- `Orders.ProductID` → `Products.ProductID`
+- `Orders.PostalCode` → `Location.PostalCode`
+
+---
+
+- **NB** All foreign key relationships are one-to-many, originating from the `Orders` table which acts as the transactional fact table in this sales dataset.
+
 
 ## Customer ERD
 
