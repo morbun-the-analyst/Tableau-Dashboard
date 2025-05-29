@@ -1,6 +1,14 @@
 #  Sales & Customer Analytics Dashboards
+## Project Background
 
-A business-driven Tableau project simulating a retail sales environment. Built to help sales managers, marketing teams, and executives gain insights into performance metrics, customer trends, and segmentation — using clean, interactive dashboards.
+
+This project presents an interactive sales dashboard built in Tableau using a dataset composed of four core tables: Orders, Customers, Products, and Location. The primary goal of this analysis was to uncover insights into sales performance across different customer segmen, product subcategories, and geographic regions.
+
+By integrating these datasets through common keys—such as Customer ID, Product ID, and Postal Code—the dashboard enables dynamic filtering and exploration of key metrics including Sales, Profit, and Quantity. Filters were provided for Customer Name, Subcategory, and detailed geographic levels including City, State, Region, and Country to support localized business decisions.
+
+Key performance indicators (KPIs) and trends were visualized to assist stakeholders in identifying high-performing areas and products, understanding customer distribution, and recognizing opportunities for improved profitability and sales strategy refinement.
+
+
 
 
 ##  Project Description Summary
@@ -161,10 +169,6 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 - Designing for stakeholders (clean layout, business KPIs)
 - Data storytelling through segment insights, recency & profitability
 
-## View on Tableau Public
-
-- [🔍 View Sales Dashboard](https://public.tableau.com/profile/yourlink)
-- [🔍 View Customer Dashboard](https://public.tableau.com/profile/yourlink)
 
 ## Recommendations
 -**Focus on Retention and Frequency**
