@@ -79,8 +79,8 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 - **NB** All foreign key relationships are one-to-many, originating from the `Orders` table which acts as the transactional fact table in this sales dataset.
 
 
-## Customer ERD
-<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="250"/>
+## Dashboard  ERD
+<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
 
 
 
