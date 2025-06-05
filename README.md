@@ -164,7 +164,7 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 > View KPIs, customer segment performance, and Top 10 customers by profit.
 
 
-![Sales $ Customer Dashboard tableu public](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17484258228580/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Sales $ Customer Dashboard tableu public](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17484258228580/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
