@@ -112,13 +112,13 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 ## Sales Dashboard Insights  
  -**Overall Growth in Sales Metrics**
 
--Total sales ↑ 20.4%, profit ↑ 12.5%, and quantity ↑ 26.8% YoY
--Indicates strong customer engagement. 
+-   Total sales ↑ 20.4%, profit ↑ 12.5%, and quantity ↑ 26.8% YoY
+-   Indicates strong customer engagement. 
 
 -**High Performers**
 
--Phones, Chairs, and Binders drove the highest sales this year
--Appliances had the highest YoY growth, suggesting an emerging category
+-   Phones, Chairs, and Binders drove the highest sales this year
+-   Appliances had the highest YoY growth, suggesting an emerging category
 
 -**Top Profit Driver**
 
