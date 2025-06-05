@@ -185,14 +185,14 @@ _   Year-over-year KPI tracking
 
 ## Recommendations
 -**Focus on Retention and Frequency**
--   Most customers place only 1–3 orders → introduce loyalty programs or incentives for repeat purchases
--	  Capitalize on January & November Peaks
--   January: high AOV per customer — ideal time for product launches or upsells
--	  November: top engagement — double down on promotions, flash sales, and remarketing
+- Most customers place only 1–3 orders → introduce loyalty programs or incentives for repeat purchases
+-	Capitalize on January & November Peaks
+- January: high AOV per customer — ideal time for product launches or upsells
+-	November: top engagement — double down on promotions, flash sales, and remarketing
 - **Target Low-Activity Months**
--	  Develop campaigns or re-engagement offers for April and February, where both engagement and revenue dip
+-	Develop campaigns or re-engagement offers for April and February, where both engagement and revenue dip
 -**Nurture Top Customers**
--	  Profile and replicate behaviors of top customers like Raymond and Tom
+-	Profile and replicate behaviors of top customers like Raymond and Tom
 -	Consider personal outreach or VIP experiences to retain and expand their lifetime
 
 ## Supporting Documents
