@@ -32,9 +32,9 @@ On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per
 
 ## Key Visuals
 <p align="center">
-  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132541.png?raw=true" alt="Screenshot 2" width="300"/>
-  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132541.png?raw=true" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="400"/>
 </p>
 
 
