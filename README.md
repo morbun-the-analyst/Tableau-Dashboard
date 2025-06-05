@@ -1,4 +1,18 @@
 #  Sales & Customer Analytics Dashboards
+## Table of contents
+- [Project Background](#project-background)
+- [Project Description Summary](#project-description-summary)
+- [Executive Summary](#executive-summary)
+- [Key Visuals](#key-visuals)
+- [Data Description](#data-description)
+- [Dashboard ERD](#dashboard-erd)
+- [Sales Dashboard Insights](#sales-dashboard-insights)
+- [Customer Dashboard Insights](#customer-dashboard-insights)
+- [Dashboard Preview](#dashboard-preview)
+- [Dashboard Feautures](#dashboard-features)
+- [Recommendations](#recommendations)
+- [Supporting Documents](#supporting-documents)
+
 ## Project Background
 
 
@@ -9,14 +23,9 @@ Key performance indicators (KPIs) and trends were visualized to assist stakehold
 
 
 
-
 ##  Project Description Summary
 
 In this project, I developed two dashboards — **Sales** and **Customer** — based on a simulated retail dataset. The project mirrors real business scenarios with stakeholder-driven requirements to support data-informed decision-making.
-
-
-
-##  Project Overview
 
 -  Tools used: Tableau
 -  Dashboards: Sales Overview, Customer Analysis
@@ -84,7 +93,7 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 | `City`             | City                      | String |
 
 
-### 🔗 Relationships
+###  Relationships
 
 - `Orders.CustomerID` → `Customers.CustomerID`
 - `Orders.ProductID` → `Products.ProductID`
@@ -187,8 +196,9 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 -	Profile and replicate behaviors of top customers like Raymond and Tom
 -	Consider personal outreach or VIP experiences to retain and expand their lifetime
 
-## Clarifying questions $ Caveats
 ## Supporting Documents
+-[Dashboard Recquirements](https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/dashboard%20recquirements.docx)
+
 
 ## 🙏 Acknowledgments
 This project was inspired by the teaching style and Tableau techniques shared by [Bara](https://www.youtube.com/@DataWithBaraa) on YouTube.
