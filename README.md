@@ -2,8 +2,7 @@
 ## Project Background
 
 
-This project presents an interactive sales dashboard built in Tableau using a dataset composed of four core tables: Orders, Customers, Products, and Location. The primary goal of this analysis was to uncover insights into sales performance across different customer segmen, product subcategories, and geographic regions.
-
+This project presents an interactive sales dashboard built in Tableau using a dataset composed of four core tables: Orders, Customers, Products, and Location.  The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 By integrating these datasets through common keys—such as Customer ID, Product ID, and Postal Code—the dashboard enables dynamic filtering and exploration of key metrics including Sales, Profit, and Quantity. Filters were provided for Customer Name, Subcategory, and detailed geographic levels including City, State, Region, and Country to support localized business decisions.
 
 Key performance indicators (KPIs) and trends were visualized to assist stakeholders in identifying high-performing areas and products, understanding customer distribution, and recognizing opportunities for improved profitability and sales strategy refinement.
@@ -31,6 +30,14 @@ The sales Dashboard reveals strong YoY growth in total sales (+20.4%), profit (+
 
 On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per customer (+10.8%), and total orders (+28.3%) reflects a healthier and more engaged customer base. November emerged as the peak month for engagement, while January drove the highest revenue per customer. However, a significant portion of customers only place 1–3 orders, signaling retention gaps. The business should leverage seasonal trends, focus on increasing order frequency, and prioritize top-profit customers like Raymond and Tom to drive long-term value.
 
+## Key Visuals
+<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
+<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
+
+<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-29%20133428.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
+
+
+
 ## Data Description
 
 - **Overview**
@@ -38,7 +45,7 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 
 
 
-### 📦 Table: Orders
+###  Table: Orders
 
 | Field Name       | Description                                | Type    |
 |------------------|---------------------------------------------|---------|
@@ -51,21 +58,21 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 | `ProductID (FK)` | Foreign key referencing `Products` table    | String  |
 | `PostalCode (FK)`| Foreign key referencing `Location` table    | String  |
 
-### 👥 Table: Customers
+###  Table: Customers
 
 | Field Name        | Description                     | Type   |
 |-------------------|----------------------------------|--------|
 | `CustomerID (PK)` | Unique identifier for customer   | String |
 | `CustomerName`    | Full name of the customer        | String |
 
-### 🛒 Table: Products
+###  Table: Products
 
 | Field Name        | Description                       | Type   |
 |-------------------|------------------------------------|--------|
 | `ProductID (PK)`  | Unique product identifier          | String |
 | `SubCategory`     | Product sub-category (e.g., Chairs, Phones) | String |
 
-### 🌍 Table: Location
+###  Table: Location
 
 | Field Name         | Description              | Type   |
 |--------------------|---------------------------|--------|
@@ -142,17 +149,14 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 
 ##  Dashboards Preview
 
-### Sales Dashboard
+### Sales $ Customer Dashboard
 > View metrics like YoY sales, subcategory profit, and weekly trends.
-
-![Sales Dashboard](images/sales_dashboard_preview.png)
-
-### Customer Dashboard
 > View KPIs, customer segment performance, and Top 10 customers by profit.
+
 
 ![Customer Dashboard](images/customer_dashboard_preview.png)
 
----
+
 
 ##  Dashboard Features
 
@@ -183,6 +187,7 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 -	Consider personal outreach or VIP experiences to retain and expand their lifetime
 
 ## Clarifying questions $ Caveats
+## Supporting Documents
 
 ## 🙏 Acknowledgments
 This project was inspired by the teaching style and Tableau techniques shared by [Bara](https://www.youtube.com/@DataWithBaraa) on YouTube.
