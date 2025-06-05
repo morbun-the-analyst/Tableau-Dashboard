@@ -122,38 +122,38 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 
 -**Top Profit Driver**
 
--Copiers generated the highest profit of 63k  and ranked among the top 5 in sales — indicating high-margin performance
+-   Copiers generated the highest profit of 63k  and ranked among the top 5 in sales — indicating high-margin performance
 
 -**Underperformers**
 
--Machines, Envelopes, and Tables all showed YoY sales decline
--Machines: -22.1%, Envelopes: -28%, Tables: barely grew (+0.1%)
--Tables showed the highest loss despite a minor improvement in sales
+-   Machines, Envelopes, and Tables all showed YoY sales decline
+-   Machines: -22.1%, Envelopes: -28%, Tables: barely grew (+0.1%)
+-   Tables showed the highest loss despite a minor improvement in sales
 
 ## Customer Dashboard Insights 
 
 -**Customer Growth & Engagement**
 
--Total customers ↑ 8.6%, sales per customer ↑ 10.8%, and total orders ↑ 28.3% YoY
--Indicates stronger customer base and more frequent purchasing behavior
+-   Total customers ↑ 8.6%, sales per customer ↑ 10.8%, and total orders ↑ 28.3% YoY
+-   Indicates stronger customer base and more frequent purchasing behavior
 
 -**Monthly Customer Behavior**
 
--November: highest number of customers and total orders (likely seasonal peak)
--February: lowest customer activity — potential dip due to post-holiday lull
--January: highest sales per customer — early-year big spenders
--April: lowest sales per customer — possible disengagement or smaller-ticket items
+-   November: highest number of customers and total orders (likely seasonal peak)
+-   February: lowest customer activity — potential dip due to post-holiday lull
+-   January: highest sales per customer — early-year big spenders
+-   April: lowest sales per customer — possible disengagement or smaller-ticket items
 
 -**Order Distribution**
 
--Majority of customers placed 1–3 orders
--200 (1 order), 200 (2 orders), and 156 (3 orders)
--Suggests a large base of low-frequency buyers — opportunity to improve retention or upselling
+-   Majority of customers placed 1–3 orders
+-   200 (1 order), 200 (2 orders), and 156 (3 orders)
+-   Suggests a large base of low-frequency buyers — opportunity to improve retention or upselling
 
 -**Top Customers by Profit**
 
--Highest contributors: Raymond, Tom, and one other (4.5K)
--These VIP customers offer strong ROI and should be prioritized for  eloyalty effortse summary ➜](docs/executive_summary.md)
+-   Highest contributors: Raymond, Tom, and one other (4.5K)
+-   These VIP customers offer strong ROI and should be prioritized for  eloyalty effortse summary ➜](docs/executive_summary.md)
 
 
 
@@ -169,31 +169,30 @@ This dataset contains four relational tables: `Orders`, `Customers`, `Products`,
 
 
 ##  Dashboard Features
-
--  Year-over-year KPI tracking
-- Interactive charts with drilldowns by region, category, and time
-- Dynamic filters: year, region, category, customer segment
-- Business-friendly layout designed for managers and execs
-- Navigation between dashboards with intuitive interactivity
+_   Year-over-year KPI tracking
+-   Interactive charts with drilldowns by region, category, and time
+-   Dynamic filters: year, region, category, customer segment
+-   Business-friendly layout designed for managers and execs
+-   Navigation between dashboards with intuitive interactivity
 
 
 ##  Learnings
 
-- Advanced dashboard actions (highlight, filter, URL navigation)
-- Designing for stakeholders (clean layout, business KPIs)
-- Data storytelling through segment insights, recency & profitability
+-   Advanced dashboard actions (highlight, filter, URL navigation)
+-   Designing for stakeholders (clean layout, business KPIs)
+-   Data storytelling through segment insights, recency & profitability
 
 
 ## Recommendations
 -**Focus on Retention and Frequency**
-- Most customers place only 1–3 orders → introduce loyalty programs or incentives for repeat purchases
--	Capitalize on January & November Peaks
-- January: high AOV per customer — ideal time for product launches or upsells
--	November: top engagement — double down on promotions, flash sales, and remarketing
+-   Most customers place only 1–3 orders → introduce loyalty programs or incentives for repeat purchases
+-	  Capitalize on January & November Peaks
+-   January: high AOV per customer — ideal time for product launches or upsells
+-	  November: top engagement — double down on promotions, flash sales, and remarketing
 - **Target Low-Activity Months**
--	Develop campaigns or re-engagement offers for April and February, where both engagement and revenue dip
+-	  Develop campaigns or re-engagement offers for April and February, where both engagement and revenue dip
 -**Nurture Top Customers**
--	Profile and replicate behaviors of top customers like Raymond and Tom
+-	  Profile and replicate behaviors of top customers like Raymond and Tom
 -	Consider personal outreach or VIP experiences to retain and expand their lifetime
 
 ## Supporting Documents
