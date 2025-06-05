@@ -31,10 +31,11 @@ The sales Dashboard reveals strong YoY growth in total sales (+20.4%), profit (+
 On the Customer Dashboard, year-over-year growth in customers (+8.6%), sales per customer (+10.8%), and total orders (+28.3%) reflects a healthier and more engaged customer base. November emerged as the peak month for engagement, while January drove the highest revenue per customer. However, a significant portion of customers only place 1–3 orders, signaling retention gaps. The business should leverage seasonal trends, focus on increasing order frequency, and prioritize top-profit customers like Raymond and Tom to drive long-term value.
 
 ## Key Visuals
-<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
-<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132541.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
-
-<img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
+<p align="center">
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132541.png?raw=true" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="300"/>
+</p>
 
 
 
