@@ -8,7 +8,7 @@
 - [Dashboard ERD](#dashboard-erd)
 - [Sales Dashboard Insights](#sales-dashboard-insights)
 - [Customer Dashboard Insights](#customer-dashboard-insights)
-- [Dashboard Preview](#dashboard-preview)
+- [Dashboards Preview](#dashboards-preview)
 - [Dashboard Feautures](#dashboard-features)
 - [Recommendations](#recommendations)
 - [Supporting Documents](#supporting-documents)
